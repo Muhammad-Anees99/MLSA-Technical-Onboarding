@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muhammad Anees",
-  title: "Web Designer & Content Creator",
+  title: "Mechatronis & Control Engineer",
   email: "m.aneesmct@gmail.com",
   gitHub: "Muhammad-Anees99",
   instagram: "r_m_anees_",
   linkedIn: "muhammad-anees-engr",
   medium: "m.anees990011",
   twitter: "_Muhammad_Anees",
-  youTube: "Code",
+  youTube: "pakistan99001",
 };
 
 const primaryColor = "#4E567E";
