@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Pose detection using Mediapipe and OpenCV User-Friendly GUI",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is a Python-based solution for real-time detection and tracking of different poses of Salah using the Mediapipe library and Graphical User Interface (GUI).",
+    url: "https://github.com/Muhammad-Anees99/Salah-Analysis-using-Mediapipe-and-OpenCV-with-Creative-and-User-Friendly-GUI",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Genetic Algorithm for Maze Solving",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Autonomus Robot Navigation using Genetic Algorithm in 25 by 25 Grid Using C Language. ",
+    url: "https://medium.com/@m.anees990011/genetic-algorithm-for-maze-solving-32998117382a",
   },
   {
-    title: "My Resume Site",
+    title: "Ambulatory Ventilator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project is one of the best project in which a Portable Ventilator is made using Microcontroller and Proper Mechanism Assembly with programming and features like SolidWorks Model, 3D printing, PCB design Proper Hardware and Final Design.",
+    url: "https://victorious-forest-0bb28d600.3.azurestaticapps.net/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Machine Learning Basics",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Regression model for predicting the price of a house based on its characteristics using Jupyter Notebook and Scikit-learn.",
+    url: "",
   },
 ];
 
