@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "muhammad-anees-engr",
   medium: "m.anees990011",
   twitter: "_Muhammad_Anees",
-  youTube: "pakistan99001",
+  youTube: "mechatech_snds",
 };
 
 const primaryColor = "#4E567E";
