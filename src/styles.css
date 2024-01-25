@@ -10,18 +10,17 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
-  min-width: 320px; /* Set a minimum width to prevent the content from being cut off */
 }
 
 div#main {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 100vw;
 }
 
 section {
   position: relative;
-  width: 100%;
+  width: 100vw;
 }
 
 h1 {
